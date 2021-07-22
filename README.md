@@ -39,7 +39,7 @@ Eventual screenshots of finished work will go here.
 ### Links
 
 Keeping a codepen version in tandem with local copy so you can see it live there.
-[Codepen](https://codepen.io/aurarian)
+[My codepen here](https://codepen.io/aurarian)
 
 ## My process
 
