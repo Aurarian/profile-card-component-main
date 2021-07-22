@@ -55,7 +55,7 @@ Will update with work done on days that I work on the project
 ### What I learned
 
 Will update as I work on the project.
-
+<!-- 
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
@@ -65,7 +65,7 @@ Will update as I work on the project.
   color: papayawhip;
 }
 ```
-
+ -->
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Continued development
